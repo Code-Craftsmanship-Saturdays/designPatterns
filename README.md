@@ -1,4 +1,4 @@
-#Design Patterns
+# Design Patterns
 
 
 ## What is a Design Pattern?
@@ -32,19 +32,19 @@ The results and trade-offs of applying the pattern.
 
 ## Describing Design Patterns
 
-###Purpose
+### Purpose
 - Creational: Describe the process of object creation
 - Structural: Composition of classes or objects
 - Behavioral: Ways in which classes or objects interact and distributes responsibility
 
 
-###Scope
+### Scope
 - Class
 - Object
 
-##Delegation
+## Delegation
 
-##Inheritance vs Composition
+## Inheritance vs Composition
 
-##Inheritance vs Paramerized Types
+## Inheritance vs Paramerized Types
 
